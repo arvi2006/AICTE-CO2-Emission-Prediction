@@ -13,7 +13,7 @@ emissions from country specific data parameters.
 ---
 ## Tools used
 
-1. **Jupiter Notebook**
+1. **Google Colab**
 
 2. **Power BI**
 ---
