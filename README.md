@@ -9,11 +9,20 @@ emissions from country specific data parameters.
 
 1. **Data Cleaning** and Preparation
 
-2. **Data Exploration** and **Predictive Analysis**
+2. **Exploratory Data Analysis (EDA)**
+
+3. **ML Model Building**
 ---
 ## Tools used
 
-1. **Google Colab**
+ **Google Colab**
 
-2. **Power BI**
 ---
+## Libraries Used
+
+1. **Numpy**
+2. **Pandas**
+3. **Matplotlib**
+4. **SciKit learn**
+
+--- 
