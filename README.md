@@ -26,3 +26,7 @@ emissions from country specific data parameters.
 4. **SciKit learn**
 
 --- 
+
+## pkl file google drive link
+
+https://drive.google.com/file/d/1sdAshPd9wfs0aLTDamZVfM6g7Rub5bab/view?usp=sharing
